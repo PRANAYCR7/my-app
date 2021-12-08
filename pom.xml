@@ -45,7 +45,7 @@
 		
 		<repository>
 		    <id>nexus</id>
-		    <url>http://34.238.42.132:8081/repository/maven-releases/</url>
+		    <url>http://34.238.42.132:8081/repository/sample-releases/</url>
 		</repository>
   	</distributionManagement>
 	
